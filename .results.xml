@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skips="0" tests="1" time="2.067"><testcase classname="" file="pytests/test_index.py" name="pytests.test_index" time="0"><error message="collection failure">pytests/test_index.py:7: in &lt;module&gt;
+    from ipynb.fs.full.index import * # variable names go here
+index.ipynb:33: in &lt;module&gt;
+    &quot;\n&quot;,
+E   NameError: name &apos;v&apos; is not defined</error></testcase></testsuite>
